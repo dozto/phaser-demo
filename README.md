@@ -18,3 +18,11 @@ $ yarn start # 启动本地WEB服务器，启动后默认运行在localhost:8080
 - `src`: 游戏开发的项目目录
   - `scenes`: 游戏中的各个场景目录
   - `game.js`: 游戏的主入口文件
+
+## 相关资源
+
+- [官方学习资源](https://phaser.io/learn)
+- [API 文档](https://photonstorm.github.io/phaser3-docs/)
+- [多语言基础教程](https://phaser.io/tutorials/making-your-first-phaser-3-game)
+- [Phaser 中文站](https://www.phaser-china.com/)
+- [Phaser 微信小游戏集成](https://github.com/dotgreg/weixin-minigame-tutorial)
