@@ -5,10 +5,17 @@
   "repository": "https://github.com/dozto/phaser-demo.git",
   "author": "Oliver.W <ole3021@gmail.com>",
   "license": "MIT",
+  "typeRoots": [
+    "./node_modules/phaser/types"
+  ],
+  "types": "Phaser",
   "scripts": {
     "start": "live-server"
   },
   "dependencies": {
     "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "phaser": "^3.22.0"
   }
 }
